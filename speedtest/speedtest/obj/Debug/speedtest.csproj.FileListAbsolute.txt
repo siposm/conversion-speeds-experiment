@@ -1,0 +1,7 @@
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\bin\Debug\speedtest.exe.config
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\bin\Debug\speedtest.exe
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\bin\Debug\speedtest.pdb
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\obj\Debug\speedtest.csprojAssemblyReference.cache
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\obj\Debug\speedtest.csproj.CoreCompileInputs.cache
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\obj\Debug\speedtest.exe
+C:\Users\sm\Desktop\conersion-speeds-experiment\speedtest\speedtest\obj\Debug\speedtest.pdb
